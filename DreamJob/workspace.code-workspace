@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/guarder-html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DreamJob"
+	}
+}
